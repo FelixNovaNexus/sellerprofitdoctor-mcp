@@ -48,13 +48,14 @@ Ask in plain words, for example:
 - "At 12,000 dollars of card sales a month, which Shopify plan costs me least?"
 - "What are Amazon's fees on one 29.99 dollar kitchen item sent through FBA?"
 
-## Tools (15, all read-only)
+## Tools (16, all read-only)
 
 **Check-up**
 - `sellerprofit_checkup`: the free profit check-up for an Etsy shop, a Shopify store or an Amazon seller: the grade word, what one order and the month keep after fees, ads and costs, and the top 3 losses, each with its fix and what it's worth a month at the seller's numbers if orders hold.
 
 **Etsy**
 - `sellerprofit_etsy_fees`: Etsy's fees on one sale, line by line (listing, transaction, payment processing, currency conversion, Offsite Ads).
+- `sellerprofit_etsy_profit`: what one Etsy sale leaves after every fee, materials, packaging and the label: the profit, its margin and the break-even item price, and with the minutes it takes, the pay per hour and the item price that pays an hourly rate.
 - `sellerprofit_offsite_ads`: what Offsite Ads cost a shop per order and per month, and the item price that covers the fee.
 - `sellerprofit_shipping_gap`: what the label and packaging cost beyond what the buyer pays, and the prices that close the gap.
 - `sellerprofit_ads_breakeven`: the ROAS at which Etsy Ads pay for themselves, and what the ads gain or lose a month.
