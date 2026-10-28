@@ -1,5 +1,7 @@
 # Seller Profit Doctor MCP server
 
+[![mcptry](https://mcptry.com/badge/com.sellerprofitdoctor/free-tools)](https://mcptry.com/servers/com.sellerprofitdoctor/free-tools)
+
 A free, read-only remote MCP server for people who sell on Etsy, Shopify and Amazon. It runs Seller Profit Doctor's profit check-up for a shop, works out a platform's fees on one sale, prices for a target profit, the shipping gap, ads break-even, which Shopify plan fits, and what a box bills at, and returns each platform's dated, sourced fee table. Every answer links back to the matching page on [sellerprofitdoctor.com](https://sellerprofitdoctor.com), where the seller can check it.
 
 - **Endpoint:** `https://sellerprofitdoctor.com/api/mcp`
